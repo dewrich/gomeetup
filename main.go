@@ -24,3 +24,7 @@ func two() {
 func three() {
 
 }
+
+func four() {
+	
+}
